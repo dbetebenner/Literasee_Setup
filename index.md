@@ -5,14 +5,14 @@ achievement relative to the state's performance standards can be provided.
 
 ## How to interpret your child's score
 
-* How likely is it that your child is at/above proficient
-* How likely is it that your child is in level 1?
-* How likely is it that your child is in level 4?
+* How likely is it that your child is at/above proficient (state reference/school reference)
+* How likely is it that your child is in level 1? (state reference/school reference)
+* How likely is it that your child is in level 4? (state reference/school reference)
 
 ![alt text](guage.jpg "Wiggly room guage")
 
 
-## Idea 3 ???
+## Interpretation
 
 
-## Conclusion
+## Recommendations
