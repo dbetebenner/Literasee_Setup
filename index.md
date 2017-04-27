@@ -6,11 +6,6 @@ about your child's achievement.
 
 ## How to interpret your child's score
 
-
-
-### Image. 
-
-* [Guage](http://www.nytimes.com/elections/forecast/president)
 ![alt text](guage.jpg "Wiggly room guage")
 
 
