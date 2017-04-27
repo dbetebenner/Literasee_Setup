@@ -11,7 +11,7 @@ about your child's achievement.
 ### Image. 
 
 * [Guage](http://www.nytimes.com/elections/forecast/president)
-
+![alt text](guage.jpg "Wiggly room guage")
 
 
 ## Idea 3 ???
